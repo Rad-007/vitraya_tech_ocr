@@ -33,8 +33,8 @@ Before you begin, ensure you have the following installed on your system:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
-    cd yourrepository/backend
+    git clone https://github.com/Rad-007/vitraya_tech_ocr.git
+    cd vitraya_tech/backend
     ```
 
 2. Create a virtual environment and activate it:
@@ -103,6 +103,23 @@ Before you begin, ensure you have the following installed on your system:
     ```
 
    The frontend server will start on `http://localhost:3000`.
+
+
+## Running the Application
+
+To run the application, you can use the provided scripts.
+
+### Windows
+
+1. Double-click `start_app.bat` to run the backend and frontend servers.
+
+### Unix-based Systems (Linux, macOS)
+
+1. Open a terminal and run:
+
+    ```bash
+    ./start_app.sh
+    ```
 
 ## Usage
 
