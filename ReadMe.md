@@ -53,7 +53,7 @@ Before you begin, ensure you have the following installed on your system:
 4. Create a `.env` file in the `backend` directory and add your OCR API key:
 
     ```env
-    OCR_API_KEY=your_ocr_space_api_key
+    OCR_API_KEY={{get your key form OCR.SPACE}}
     ```
 
 ### Frontend
